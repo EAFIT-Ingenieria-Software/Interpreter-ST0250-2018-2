@@ -5,8 +5,8 @@ Interpreter: Implementación del patrón de diseño interpreter para interpretar
 Patrón de diseño Interpreter
 
 ## Integrantes
-Kevyn Santiago Gomez Patiño
-Kevin Arley Parra Henao
+Kevyn Santiago Gomez Patiño,
+Kevin Arley Parra Henao,
 Agustín Nieto García
 
 ## Patrón de diseño
